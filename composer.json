@@ -1,0 +1,14 @@
+{
+    "name": "ReduktorSpalin/php_ticks",
+    "authors": [
+        {
+            "name": "ReduktorSpalin"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4": {
+            "Ticks\\" : "src/"
+        }
+    }
+}
